@@ -1,5 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Marcelo Fernandez</h1>
+<h3 align="center">A passionate full stack developer 👨‍💻 from Buenos Aires, Argentina</h3>
 
+<p align="center">
+  <a href="https://twitter.com/jmarce99" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/j.marce99" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="28px" width="28px" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCFs46VgslEUeGd1BGZTFwXg" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="youtube" height="28px" width="28px" />
+  </a>
+</p>
 <!--
 **jmarce99/jmarce99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
