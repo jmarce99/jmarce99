@@ -9,7 +9,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="28px" width="28px" />
   </a>
   <a href="https://www.youtube.com/channel/UCFs46VgslEUeGd1BGZTFwXg" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="youtube" height="28px" width="28px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="28px" width="28px" />
   </a>
 </p>
 <!--
