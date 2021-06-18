@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Fernandez</h1>
-<h3 align="center">A passionate full stack developer 💻 from Buenos Aires, Argentina</h3>
+<h3 align="center">A passionate full stack developer jr 💻 from Buenos Aires, Argentina</h3>
 
 <p align="center">
       <a href="https://www.linkedin.com/in/jmarce99/" target="_blank">
