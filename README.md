@@ -17,7 +17,6 @@
 - 🔭 I’m currently working on a Sportbase E-commerce App this is a academy project for SoyHenry
 
 - 📫 How to reach me **marcelofernandez.dev@gmail.com**
-<br/>
 
 - ⚡ Outside of development work, I am a
 entrepreneur and I love technology, teamwork and helping others to improve themselves. 😄
